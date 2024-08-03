@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=600&lines=Con+la+perseverancia+podr%C3%A1s+lograr+todo+lo+que+te+propongas.&color=DA70D6" alt="Typing SVG">
 
 <h2>Sobre mí:</h2>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="75">&nbsp; 
 Soy estudiante de la carrera de Ingeniería en Sistemas y Redes Informáticas, de la Universidad Gerardo Barrios, de la facultad de ciencia 
 y tecnología, actualmente cuento con 23 años de edad, tengo conocimientos en: 
 
@@ -14,14 +13,12 @@ y tecnología, actualmente cuento con 23 años de edad, tengo conocimientos en:
 <hr>
 
 <h2>Mi objetivo:</h2>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="75">&nbsp;
 <p> Integrarme dentro de un equipo de trabajo, aportando con mis conocimientos y habilidades, adquiridos a lo largo de mi formacion educativa 
   y profesional, para asi desenvolverme con facilidad y compromiso en el desarrollo empresarial y personal.
 </p>
 <hr>
 
 <h2>Software:</h2>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp;
 <p></p>
 
 <table>
@@ -73,6 +70,12 @@ y tecnología, actualmente cuento con 23 años de edad, tengo conocimientos en:
   </tr>
 </table>
 
+<hr>
+
+<h2>Mi portafolio:</h2>
+<a href="#" target="_blank" rel="noreferrer">
+  Portafolio
+</a>
 <hr>
 
 <!--
