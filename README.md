@@ -73,10 +73,22 @@ y tecnología, actualmente cuento con 23 años de edad, tengo conocimientos en:
 <hr>
 
 <h2>Mi portafolio:</h2>
-<a href="#" target="_blank" rel="noreferrer">
+<a href="https://leticiaguerrero.github.io/Portafolioleti/" target="_blank" rel="noreferrer">
   Portafolio
 </a>
 <hr>
+
+<h2>Contactos:</h2>
+<p>
+  <a href="https://www.linkedin.com/in/leticia-guerrero-b136b0268/" target="blank"><img align="center"
+    src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="azzar" height="30"/></a>&nbsp;&nbsp;
+  <a href="mailto:lety280917@gmail.com" target="blank"><img align="center"
+    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="azzar" height="30"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/LeticiaGuerrero" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/></a>&nbsp;&nbsp;
+</p>
 
 <!--
 **LeticiaGuerrero/LeticiaGuerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
