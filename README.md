@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=600&lines=Con+la+perseverancia+podr%C3%A1s+lograr+todo+lo+que+te+propongas.&color=DA70D6" alt="Typing SVG">
 
 <h2>Sobre mí:</h2>
-Soy estudiante de la carrera de Ingeniería en Sistemas y Redes Informáticas, de la Universidad Gerardo Barrios, de la facultad de ciencia 
+Soy estudiante de la carrera de Ingeniería en Sistemas y Redes Informáticas, ciclo x, de la Universidad Gerardo Barrios, de la facultad de ciencia 
 y tecnología, actualmente cuento con 23 años de edad, tengo conocimientos en: 
 
   - Ofimática.
@@ -62,7 +62,7 @@ y tecnología, actualmente cuento con 23 años de edad, tengo conocimientos en:
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+      <a href="https://www.adobe.com/gt/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/?size=48&id=13631&format=png" alt="Adobe Illustrator" width="40" height="40"/>
         <br>Adobe Illustrator
       </a>
