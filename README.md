@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=600&lines=Con+la+perseverancia+podr%C3%A1s+lograr+todo+lo+que+te+propongas.&color=DA70D6" alt="Typing SVG">
 
 <h2>Sobre mí:</h2>
-Soy estudiante de la carrera de Ingeniería en Sistemas y Redes Informáticas, ciclo x, de la Universidad Gerardo Barrios, de la facultad de ciencia 
-y tecnología, actualmente cuento con 23 años de edad, tengo conocimientos en: 
+Soy una persona de Ingeniería en Sistemas y Redes Informáticas, que le gusta la tecnología, actualmente cuento con 23 años de edad, tengo conocimientos en: 
 
   - Ofimática.
   - trabajo en equipo.
