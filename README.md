@@ -8,7 +8,7 @@ Soy una persona de Ingeniería en Sistemas y Redes Informáticas, que le gusta l
   - Ofimática.
   - trabajo en equipo.
   - gestión de proyectos y testing. 
-  - animación tridimensional 3D y 2D.
+ 
 <hr>
 
 <h2>Mi objetivo:</h2>
